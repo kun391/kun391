@@ -4,7 +4,7 @@ Hi 👋 I'm Kun
 Full stack developer
 --------------------
 
-I have more than 8 years of experience with Backend and Frontend, DevOps. I have worked on projects about Social Networks, Booking, Payment, Education, ERP, Management, and About us. The technologies I used are there: Laravel, Yii2, Nodejs, Reactjs, RoR, and Docker, ... Experienced Developer with a demonstrated history of working in the outsourcing/offshoring industry. Strong engineering professional graduated from Viet Nam - Korea Friendship Information Technology College, Duy Tan University
+I have more than 8 years of experience with Backend and Frontend, DevOps. I have worked on projects about Social Networks, Booking, Payment, Education, ERP, Management, and About us. The technologies I used are there: Laravel, Yii2, Nodejs, Python, RoR, Reactjs, Vuejs, and Docker, ... Experienced Developer with a demonstrated history of working in the outsourcing/offshoring industry. Strong engineering professional graduated from Viet Nam - Korea Friendship Information Technology College, Duy Tan University
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [kunit391@gmail.com](mailto:kunit391@gmail.com)
