@@ -12,7 +12,7 @@ I have more than 9 years of experience with Backend and Frontend, DevOps. I have
 
 <a href="https://www.github.com/kun391" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kun391?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://komarev.com/ghpvc/?username=kun391&style=flat-square)
+![](https://komarev.com/ghpvc/?username=kun391&style=for-the-badge)
 
 ### Skills
 
